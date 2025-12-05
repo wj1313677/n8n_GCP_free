@@ -1,7 +1,3 @@
-Here is the complete, consolidated `README.md` content based on your successful installation. It includes all the specific fixes for the GCP Free Tier, Podman rootless mode, and the SSL configuration.
-
-You can copy and paste the block below directly into your GitHub repository.
-
 ***
 
 # n8n on Google Cloud Free Tier (Podman + Traefik)
